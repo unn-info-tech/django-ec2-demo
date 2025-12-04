@@ -1,4 +1,4 @@
 from django.http import HttpResponse
 
 def home(request):
-    return HttpResponse("Hello, Django on EC2!")
+    return HttpResponse("Hello, Django on EC2!!!")
